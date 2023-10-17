@@ -20,7 +20,7 @@ Also I've worked with a variety of technologies and frameworks, including:
 
 I'm skilled in creating responsive and visually appealing user interfaces, building server-side applications, working with databases, and integrating APIs and third-party services.
 
-As a junior developer, I'm excited to continue learning and growing in my career. I'm always seeking new challenges and opportunities to improve my skills and knowledge. 
+I'm excited to continue learning and growing in my career. I'm always seeking new challenges and opportunities to improve my skills and knowledge. 
 
 In my free time, I improve my skills in Web Development and also try to stay up-to-date with the latest trends and technologies in web development.
 
