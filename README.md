@@ -1,5 +1,5 @@
 # Hi, my name is Michael. 
-I’m a junior full stack web developer with a passion for building web applications that are both functional and beautiful. I'm proficient in both front-end and back-end development, and I'm always eager to learn and explore new technologies.
+I’m a full stack web developer with a passion for building web applications that are both functional and beautiful. I'm proficient in both front-end and back-end development, and I'm always eager to learn and explore new technologies.
 
 I have experience in web development. In my projects for front-end I use:
 - HTML+CSS;
